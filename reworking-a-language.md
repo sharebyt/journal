@@ -1,4 +1,3 @@
-
 <link rel='stylesheet' href='https://ise.web.app/load/l.css'>
 
 # **A Re-work Language**
@@ -102,18 +101,13 @@ ise.get.and();
 </script>
 ```
 
+`ise.get.and();`
+ **This download Android `Ise Viewer`** 
+`ise.get.lin();` 
+**This one downloads Linux `Ise Viewer`**
 
-| **This download Android `Ise Viewer`** |
-|----------------------------------------|
-| `ise.get.and();`                       |
-
-| **This one downloads Linux `Ise Viewer`** |
-|-------------------------------------------|
-| `ise.get.lin();`                         |
-
-| **This download Windows `Ise Viewer`** |
-|----------------------------------------|
-| `ise.get.win();`                        |
+`ise.get.win();`
+ **This download Windows `Ise Viewer`**
 
 This direct, cross-platform solution ensures that applications powered by ISE can be easily deployed on multiple devices without the need for complicated setup processes or additional dependencies. Simply put, we believe simplicity is the future of development, and we’re making sure ISE stays true to that vision.
 
